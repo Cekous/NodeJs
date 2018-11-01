@@ -1,0 +1,1 @@
+exports.questions = { 'One': 'Einz', 'Two': 'Zwei', 'Three': 'Drei' };
